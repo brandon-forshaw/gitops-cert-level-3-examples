@@ -12,7 +12,7 @@ imageVersion: "1.0"
 environment: dev
 environmentType: non-prod
 region: dev
-paypalUrl: "http://preprod.paypal.com"
+paypalUrl: "http://example.com"
 dbUser: "empty"
 dbPassword: "empty"
 
